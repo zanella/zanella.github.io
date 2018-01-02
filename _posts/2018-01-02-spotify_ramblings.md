@@ -1,5 +1,5 @@
 Spotify sucks:
- - The linux desktop client uses more than 2GB of RAM;
+ - The linux desktop client uses more than 1GB of RAM (*very* close to 2);
  - The web client is shit (checking before adding duplicates? no, radio? no)
  - Your list of liked songs drops some songs from time to time;
  - If you carefully craft a playlist for a trip where you're going to be offline for a while make sure you don't forget to get it online at some point or it will just wipe the fucking downloaded songs clean with no warning whatsoever
