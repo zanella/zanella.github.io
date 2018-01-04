@@ -6,7 +6,7 @@ Spotify sucks:
  
  But, the worst of all: "radio" is a 10-ish list of songs, like, wtf!? of all the hard problems that come handling huge amounts of data, randomly generating a list is just not one of them!
  
- The 10k limit on liked songs + the shitty radio makes spotify really good at overfitting, eclecticism? nah, fuck that.
+ The 10k limit on liked songs + the shitty radio makes spotify really good at overfitting, serendipty, eclecticism? Ain't Nobody Got Time for That!
  
  How can Spotify's squad-tribe-guild "success" be so praised when it does such a sloppy job?
  
