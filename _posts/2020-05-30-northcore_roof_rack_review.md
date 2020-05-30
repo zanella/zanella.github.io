@@ -21,10 +21,9 @@ back strap didn't go loose all the way, but, now my board bag has a hole as well
 
 So..., yeah, it's quite shitty, don't buy it.
 
-Btw, sure, you may say: "well, you shouldn't have gone further than 70km/h", valid point, but see:
+Btw, sure, you may say: "well, you shouldn't have gone faster than 70km/h", valid point, but see:
 
-I'm not saying "well, the rack struggled a bit and then gave up", no no no, the strap that stays inside the car
-went the fuck away, instantly!
+I'm not saying "well, the rack struggled a bit and then gave up", no no no, the strap that stays inside the car went the fuck away, instantly!
 
 
 
