@@ -17,7 +17,7 @@ First trip with it, I hit 80km/h, my board goes flying, I brake, it comes back d
 I didn't know it then but now my board has a hole (photo here)
 
 I hastily park on the side of the road, me and my girlfriend come out to see the damage, *luckily* the 
-back strap didn't go loose all the way, but, now my board bag has a hole as well (photo here)
+back strap didn't go loose all the way, but, now my board bag has a hole as well <img src="http://zanella.github.io/_media/ripped_surf_bag.jpg">
 
 So..., yeah, it's quite shitty, don't buy it.
 
