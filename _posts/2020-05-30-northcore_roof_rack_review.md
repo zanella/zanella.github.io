@@ -11,10 +11,12 @@ I didn't realize it then but I had already seen the major problem with it:
 you know those "d-rings" that you have on your backpack? or those on "army" belts? They provide more
 friction and strangle the straps, so it doesn't just slip off, well, there's no such thing on this crappy product.
 
-The strap system consists of a single shitty buckle (photo here) that has no grip whatsoever on the strap...
+The strap system consists of a single shitty buckle that has no grip whatsoever on the strap...
+<img src="{{site.url}}/media/northcore_double_soft_roof_rack.jpg" style="display: block; margin: auto;" />
 
 First trip with it, I hit 80km/h, my board goes flying, I brake, it comes back down.
-I didn't know it then but now my board has a hole (photo here)
+I didn't know it then but now my board has a crack.
+<img src="{{site.url}}/media/cracked_board.jpg" style="display: block; margin: auto;" />
 
 I hastily park on the side of the road, me and my girlfriend come out to see the damage, *luckily* the 
 back strap didn't go loose all the way, but, now my board bag has a hole as well <img src="{{site.url}}/media/ripped_surf_bag.jpg" style="display: block; margin: auto;" />
