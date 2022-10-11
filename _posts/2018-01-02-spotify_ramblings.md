@@ -4,9 +4,9 @@ Spotify rant:
  - Your list of liked songs drops some songs from time to time;
  - If you carefully craft a playlist for a trip where you're going to be offline for a while make sure you don't forget to get it online at some point or it will just wipe the downloaded songs clean with no warning whatsoever
  
- But, the worst of all: "radio" is a 10-ish list of songs, like, wtf!? of all the hard problems that come handling huge amounts of data, randomly generating a list is just not one of them!
+ But, the worst of all: "radio" is a 10-ish list of songs... of all the hard problems that come handling huge amounts of data, randomly generating a list doesn't seem a major one...
  
- The 10k limit on liked songs + the "radio" makes spotify really good at overfitting... serendipity, eclecticism? Ain't Nobody Got Time for That!
+ The 10k limit on liked songs + the "radio" makes spotify really good at overfitting...
  
  How can Spotify's squad-tribe-guild "success" be so praised when it does such a sloppy job?
  
