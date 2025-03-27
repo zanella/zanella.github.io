@@ -1,4 +1,5 @@
 _site/*
+.idea/
 
 Thumbs.db
 .DS_Store
